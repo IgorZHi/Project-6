@@ -1,7 +1,7 @@
-#Swagger
+# Swagger
 
 
-###1. GET​/api​/v1​/Activities
+### 1. GET​/api​/v1​/Activities
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities
@@ -16,7 +16,7 @@
     "completed": false
   },
 
-###2. POST/api​/v1​/Activities
+### 2. POST/api​/v1​/Activities
 
 - HTTP-метод; **POST**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities
@@ -39,7 +39,7 @@
 
 
 
-###3. POST/api​/v1​/Activities
+### 3. POST/api​/v1​/Activities
 
 - HTTP-метод; **POST**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities
@@ -67,7 +67,7 @@
 
 
 
-###4. GET​/api​/v1​/Activities/{2}
+### 4. GET​/api​/v1​/Activities/{2}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities/2
@@ -84,7 +84,7 @@
 
 
 
-###5. GET​/api​/v1​/Activities/{22222222222222222222}
+### 5. GET​/api​/v1​/Activities/{22222222222222222222}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities/22222222222222222222
@@ -105,7 +105,7 @@
 
 
 
-###6. PUT​/api​/v1​/Activities/{3}
+### 6. PUT​/api​/v1​/Activities/{3}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities/3
@@ -128,7 +128,7 @@
 
 
 
-###7. PUT​/api​/v1​/Activities/{3}
+### 7. PUT​/api​/v1​/Activities/{3}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities/3
@@ -155,7 +155,7 @@
 }
 
 
-###8. DELETE​/api​/v1​/Activities/{4}
+### 8. DELETE​/api​/v1​/Activities/{4}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities/4
@@ -166,7 +166,7 @@
 
 
 
-###9. DELETE​/api​/v1​/Activities/{44444444444444444444}
+### 9. DELETE​/api​/v1​/Activities/{44444444444444444444}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Activities/44444444444444444444
@@ -187,7 +187,7 @@
 
 
 
-###10. GET​/api​/v1​/Authors
+### 10. GET​/api​/v1​/Authors
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors
@@ -206,7 +206,7 @@
 
 
 
-###11. POST​/api​/v1​/Authors
+### 11. POST​/api​/v1​/Authors
 
 - HTTP-метод; **POST**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors
@@ -229,7 +229,7 @@
 
 
 
-###12. GET​/api/v1/Authors/authors/books/{12}
+### 12. GET​/api/v1/Authors/authors/books/{12}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/authors/books/{12}
@@ -254,7 +254,7 @@
 
 
 
-###13. GET​/api/v1/Authors/authors/books/{12121212121212121212}
+### 13. GET​/api/v1/Authors/authors/books/{12121212121212121212}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/authors/books/{12121212121212121212}
@@ -276,7 +276,7 @@
 
 
 
-###14. GET​/api/v1/Authors/{14}
+### 14. GET​/api/v1/Authors/{14}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/{14}
@@ -293,7 +293,7 @@
 
 
 
-###15. GET​/api/v1/Authors/{15151515151515151515}
+### 15. GET​/api/v1/Authors/{15151515151515151515}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/{15151515151515151515}
@@ -315,7 +315,7 @@
 
 
 
-###16. PUT​/api/v1/Authors/{16}
+### 16. PUT​/api/v1/Authors/{16}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/{16}
@@ -339,7 +339,7 @@
 
 
 
-###17. PUT​/api/v1/Authors/{17171717171717171717}
+### 17. PUT​/api/v1/Authors/{17171717171717171717}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/{17171717171717171717}
@@ -368,7 +368,7 @@
 
 
 
-###18. DELETE​/api​/v1​/Authors/{18}
+### 18. DELETE​/api​/v1​/Authors/{18}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/18
@@ -379,7 +379,7 @@
 
 
 
-###19. DELETE​/api​/v1​/Authors/{19191919191919191919}
+### 19. DELETE​/api​/v1​/Authors/{19191919191919191919}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Authors/19191919191919191919
@@ -402,7 +402,7 @@
 
 
 
-###20. GET/api/v1/Books
+### 20. GET/api/v1/Books
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books
@@ -422,7 +422,7 @@
 
 
 
-###21. POST/api/v1/Books
+### 21. POST/api/v1/Books
 
 - HTTP-метод; **POST**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books
@@ -449,7 +449,7 @@
 
 
 
-###22. GET/api/v1/Books/{22}
+### 22. GET/api/v1/Books/{22}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books/22
@@ -468,7 +468,7 @@
 
 
 
-###23. GET/api/v1/Books/{232323232323}
+### 23. GET/api/v1/Books/{232323232323}
 
 - HTTP-метод; **GET**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books/232323232323
@@ -490,7 +490,7 @@
 
 
 
-###24. PUT/api/v1/Books/{24}
+### 24. PUT/api/v1/Books/{24}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books/24
@@ -517,7 +517,7 @@
 
 
 
-###25. PUT/api/v1/Books/{252525252525}
+### 25. PUT/api/v1/Books/{252525252525}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books/252525252525
@@ -547,7 +547,7 @@
 
 
 
-###26. DELETE/api/v1/Books/{26}
+### 26. DELETE/api/v1/Books/{26}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books/26
@@ -558,7 +558,7 @@
 
 
 
-###27. DELETE/api/v1/Books/{272727272727}
+### 27. DELETE/api/v1/Books/{272727272727}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса; https://fakerestapi.azurewebsites.net/api/v1/Books/272727272727
@@ -580,7 +580,7 @@
 
 
 
-###28. GET/api/v1/CoverPhotos
+### 28. GET/api/v1/CoverPhotos
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos
@@ -596,7 +596,7 @@
 
 
 
-###29. POST/api/v1/CoverPhotos
+### 29. POST/api/v1/CoverPhotos
 
 - HTTP-метод; **POST**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos
@@ -617,7 +617,7 @@
 
 
 
-###30. GET/api/v1/CoverPhotos/books/covers/{30}
+### 30. GET/api/v1/CoverPhotos/books/covers/{30}
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/books/covers/{30}
@@ -635,7 +635,7 @@
 
 
 
-###31.GET/api/v1/CoverPhotos/books/covers/{313131313131}
+### 31.GET/api/v1/CoverPhotos/books/covers/{313131313131}
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/books/covers/{313131313131}
@@ -657,7 +657,7 @@
 
 
 
-###32.GET/api/v1/CoverPhotos/{32}
+### 32.GET/api/v1/CoverPhotos/{32}
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/{313131313131}
@@ -673,7 +673,7 @@
 
 
 
-###33.GET/api/v1/CoverPhotos/{333333333333}
+### 33.GET/api/v1/CoverPhotos/{333333333333}
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/{333333333333}
@@ -695,7 +695,7 @@
 
 
 
-###34. PUT/api/v1/CoverPhotos/{34}
+### 34. PUT/api/v1/CoverPhotos/{34}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/34
@@ -716,7 +716,7 @@
 
 
 
-###35. PUT/api/v1/CoverPhotos/{353535353535}
+### 35. PUT/api/v1/CoverPhotos/{353535353535}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/353535353535
@@ -743,7 +743,7 @@
 
 
 
-###36. DELETE/api/v1/CoverPhotos/{36}
+### 36. DELETE/api/v1/CoverPhotos/{36}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/36
@@ -754,7 +754,7 @@
 
 
 
-###37. DELETE/api/v1/CoverPhotos/{373737373737}
+### 37. DELETE/api/v1/CoverPhotos/{373737373737}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net/api/v1/CoverPhotos/373737373737
@@ -776,7 +776,7 @@
 
 
 
-###38.GET/api/v1/Users
+### 38.GET/api/v1/Users
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users
@@ -792,7 +792,7 @@
 
 
 
-###39.POST/api/v1/Users
+### 39.POST/api/v1/Users
 
 - HTTP-метод; **POST**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users
@@ -813,7 +813,7 @@
 
 
 
-###40.GET/api/v1/Users/{4}
+### 40.GET/api/v1/Users/{4}
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users/4
@@ -829,7 +829,7 @@
 
 
 
-###41.GET/api/v1/Users/{414141414141}
+### 41.GET/api/v1/Users/{414141414141}
 
 - HTTP-метод; **GET**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users/414141414141
@@ -851,7 +851,7 @@
 
 
 
-###42.PUT/api/v1/Users/{42}
+### 42.PUT/api/v1/Users/{42}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users/42
@@ -872,7 +872,7 @@
 
 
 
-###43.PUT/api/v1/Users/{434343434343}
+### 43.PUT/api/v1/Users/{434343434343}
 
 - HTTP-метод; **PUT**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users/434343434343
@@ -899,7 +899,7 @@
 
 
 
-###44.DELETE/api/v1/Users/{44}
+### 44.DELETE/api/v1/Users/{44}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users/44
@@ -910,7 +910,7 @@
 
 
 
-###45.DELETE/api/v1/Users/{454545454545}
+### 45.DELETE/api/v1/Users/{454545454545}
 
 - HTTP-метод; **DELETE**
 - Полный URL запроса;https://fakerestapi.azurewebsites.net//api/v1/Users/454545454545
