@@ -49,9 +49,9 @@ PATCH/api/v1/new-year/dishes/recipes/{8}  - указывается ID рецеп
   "completed": true
 } )```
 
-***в тело запроса.***
+в тело запроса.
 
-https://fakerestapi.azurewebsites.net/api/v1/Activities/8   или в ***url запроса***
+https://fakerestapi.azurewebsites.net/api/v1/Activities/8   или в url запроса 
 
 ```{
   "id": 8,
@@ -59,13 +59,13 @@ https://fakerestapi.azurewebsites.net/api/v1/Activities/8   или в ***url з�
   "dueDate": "2023-06-07T12:16:39.872Z",
   "completed": true
 }```   
-          ***ответ запроса***
+          ответ запроса 
 
-***код 200.***
+код 200
 
 
 DELETE/api/v1/new-year/dishes/recipes/{8} - id который неоходимо удалить
 
-https://fakerestapi.azurewebsites.net/api/v1/Activities/8  ***url запроса***
+https://fakerestapi.azurewebsites.net/api/v1/Activities/8  url запроса
 
 Тела запроса и ответа нет. 
