@@ -33,30 +33,39 @@ API Testing — это тип тестирования программного 
 GET/api/v1/new-year/dishes/recipes  -  получение списка рецепта
 
 POST/api/v1/new-year/dishes/recipes   -  создание нового рецепта (тело запроса - 8)
-{
+
+```{
   "id": 8,
   "title": "string",
   "dueDate": "2023-06-04T22:00:58.338Z",
   "completed": true
-}
+}```
 
-PATCH/api/v1/new-year/dishes/recipes/{id}  - указывается ID рецепта , который необходимо обновить / отредактировать ({
+PATCH/api/v1/new-year/dishes/recipes/{8}  - указывается ID рецепта , который необходимо обновить / отредактировать
+```({
   "id": 8,
   "title": "string",
   "dueDate": "2023-06-07T12:16:39.872Z",
   "completed": true
-} ) ***в тело запроса.***
+} )```
+
+***в тело запроса.***
+
 https://fakerestapi.azurewebsites.net/api/v1/Activities/8   или в ***url запроса***
-{
+
+```{
   "id": 8,
   "title": "string",
   "dueDate": "2023-06-07T12:16:39.872Z",
   "completed": true
-}              ***ответ запроса***
+}```   
+          ***ответ запроса***
 
 ***код 200.***
 
 
-DELETE/api/v1/new-year/dishes/recipes/{id} - id который неоходимо удалить
+DELETE/api/v1/new-year/dishes/recipes/{8} - id который неоходимо удалить
+
 https://fakerestapi.azurewebsites.net/api/v1/Activities/8  ***url запроса***
+
 Тела запроса и ответа нет. 
